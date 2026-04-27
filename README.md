@@ -1,7 +1,3 @@
-Here’s a **clean, professional README** you can use directly for your project. It’s written in a way that works for **GitHub, resume, and interviews**.
-
----
-
 # 🚗 Driver Drowsiness Detection System
 
 A real-time computer vision system that detects driver drowsiness using facial features such as eye closure, yawning, and driver presence. The system provides immediate alerts to improve road safety.
@@ -211,12 +207,3 @@ This project is for educational and research purposes.
 
 This project demonstrates the integration of **Computer Vision + Real-time Processing + Safety Systems**, making it a strong addition to portfolios and interviews.
 
----
-
-If you want, next I can:
-
-* 🔥 Make this into a **LinkedIn project post**
-* 🎯 Prepare **interview questions & answers for this project**
-* 📊 Help you explain this confidently in interviews
-
-Just tell me 👍
